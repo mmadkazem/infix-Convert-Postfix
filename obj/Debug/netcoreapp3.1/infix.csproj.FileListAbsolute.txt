@@ -1,0 +1,13 @@
+C:\Users\K.Ramzani\Desktop\program\C#\infix\bin\Debug\netcoreapp3.1\infix.exe
+C:\Users\K.Ramzani\Desktop\program\C#\infix\bin\Debug\netcoreapp3.1\infix.deps.json
+C:\Users\K.Ramzani\Desktop\program\C#\infix\bin\Debug\netcoreapp3.1\infix.runtimeconfig.json
+C:\Users\K.Ramzani\Desktop\program\C#\infix\bin\Debug\netcoreapp3.1\infix.runtimeconfig.dev.json
+C:\Users\K.Ramzani\Desktop\program\C#\infix\bin\Debug\netcoreapp3.1\infix.dll
+C:\Users\K.Ramzani\Desktop\program\C#\infix\bin\Debug\netcoreapp3.1\infix.pdb
+C:\Users\K.Ramzani\Desktop\program\C#\infix\obj\Debug\netcoreapp3.1\infix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K.Ramzani\Desktop\program\C#\infix\obj\Debug\netcoreapp3.1\infix.AssemblyInfoInputs.cache
+C:\Users\K.Ramzani\Desktop\program\C#\infix\obj\Debug\netcoreapp3.1\infix.AssemblyInfo.cs
+C:\Users\K.Ramzani\Desktop\program\C#\infix\obj\Debug\netcoreapp3.1\infix.csproj.CoreCompileInputs.cache
+C:\Users\K.Ramzani\Desktop\program\C#\infix\obj\Debug\netcoreapp3.1\infix.dll
+C:\Users\K.Ramzani\Desktop\program\C#\infix\obj\Debug\netcoreapp3.1\infix.pdb
+C:\Users\K.Ramzani\Desktop\program\C#\infix\obj\Debug\netcoreapp3.1\infix.genruntimeconfig.cache
